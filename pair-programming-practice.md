@@ -45,6 +45,7 @@ $ git pull origin master
 - View you markdown with control-shift-m
 - Save the file
 - In terminal, ensure you are in the correct directory
+- $ git pull origin master
 - $ git add .
 - $ git commit -m "our first commit"
 - $ git push origin master
@@ -57,6 +58,7 @@ $ git pull origin master
 - Open the directory into a text editor
 - Make changes to the markdown file
 - In terminal, ensure you are in the correct directory
+- $ git pull origin master
 - $ git add .
 - $ git commit -m "description of changes"
 - $ git push origin master
@@ -67,6 +69,7 @@ $ git pull origin master
 - $ git pull origin master
 - Make changes to the markdown file
 - In terminal, ensure you are in the correct directory
+- $ git pull origin master
 - $ git add .
 - $ git commit -m "description of changes"
 - $ git push origin master
