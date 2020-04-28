@@ -11,7 +11,7 @@ GitHub allows developers to store their code and collaborate on projects.
 There are many online git platforms that are used by development teams such as GitLab or Bitbucket. GitHub is the largest host of source code in the world with over 40 million users and 100 million repositories.
 
 ### What is a repository?
-A repository (or repo) is basically a bucket to store a project. When it is on your GitHub it is a name storage place, when it is on your local machine, it looks like a directory.
+A repository (or repo) is basically a bucket to store a project. When it is on your GitHub it is a named storage place, when it is on your local machine, it looks like a directory.
 
 ### What is a README?
 GitHub uses a particular file called a README to store instructions or information about a project or repo. READMEs are written in a language called markdown which is denoted with the file extension .md (short for markdown). Markdown is a language that writes and reads like normal text with a couple special shortcuts and tools that allow you to embed code snippets and links.
@@ -42,6 +42,7 @@ $ git pull origin master
 - Remember, no spaces in the file name!
 - Open the directory into a text editor
 - Open the file you created and add some content - whatever you want
+- View you markdown with control-shift-m
 - Save the file
 - In terminal, ensure you are in the correct directory
 - $ git add .
